@@ -1,7 +1,7 @@
 /**
  * Authors: Owen Strazdas, Nino Gergonne
  *
- *Spimple C code that prints the names and Majors of Owen and Nino
+ *Simple C code that prints the names and Majors of Owen and Nino
 '*/
 
 #include <stdlib.h>
