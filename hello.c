@@ -1,12 +1,16 @@
 /**
  * Authors: Owen Strazdas, Nino Gergonne
  *
- * This code prints the names and Majors of Owen and Nino
+ *Spimple C code that prints the names and Majors of Owen and Nino
 '*/
 
-int main(int argc char **argv) {
+#include <stdlib.h>
+#include <stdio.h>
 
-    printf("Hello World, My name is Owen Strazdas\nMy Major is Electrical Elctrical Engineering");
+int main(int argc, char **argv) {
+
+    printf("Hello World, My name is Owen Strazdas!\n");
+    printf("My Major is Electrical Elctrical!\n");
 
     return 0;
 
